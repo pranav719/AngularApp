@@ -1,0 +1,23 @@
+
+$fontfa: 'Geneva';
+.container{
+    margin: 0 auto;
+    width: 200px;
+}
+
+span{
+    font-size: 1.4em;
+    color: rgb(17, 203, 250);
+}
+
+.back{
+    color:rgb(237, 22, 245);
+    width: 80px;
+    height: 35px;
+    border-radius: 20px;
+    background-color:brown;
+    font-family: $fontfa;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: auto;
+}
